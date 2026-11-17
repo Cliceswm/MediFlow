@@ -1,4 +1,4 @@
-using MediFlow.Data;
+using MediFlow.Infrastructure.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Identity;
 

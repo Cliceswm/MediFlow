@@ -1,6 +1,6 @@
 using MediFlow.Components.Account.Pages;
 using MediFlow.Components.Account.Pages.Manage;
-using MediFlow.Data;
+using MediFlow.Infrastructure.Data;
 using Microsoft.AspNetCore.Antiforgery;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;

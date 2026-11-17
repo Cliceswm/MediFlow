@@ -16,4 +16,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MediFlow.Application\MediFlow.Application.csproj" />
+    <ProjectReference Include="..\MediFlow.Infrastructure\MediFlow.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

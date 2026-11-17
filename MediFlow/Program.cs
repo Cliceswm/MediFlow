@@ -1,6 +1,6 @@
 using MediFlow.Components;
 using MediFlow.Components.Account;
-using MediFlow.Data;
+using MediFlow.Infrastructure.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
