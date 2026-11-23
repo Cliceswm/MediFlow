@@ -58,3 +58,11 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+/* MediFlow - Selected navigation item */
+
+.mud-navmenu .mud-nav-link.active:not(.mud-nav-link-disabled) {
+    background-color: #C6E7DD !important;
+    color: #176B60 !important;
+    border-radius: 0px;
+}
